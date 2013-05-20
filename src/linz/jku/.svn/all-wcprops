@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/109/trunk/ShakeContact/src/linz/jku
+END
+Mp3Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/Mp3Data.java
+END
+DataReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/DataReceiver.java
+END
+ProgressSharing.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/ShakeContact/src/linz/jku/ProgressSharing.java
+END
+GetMp3List.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/GetMp3List.java
+END
+btStateReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/76/trunk/ShakeContact/src/linz/jku/btStateReceiver.java
+END
+ConnectThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/ConnectThread.java
+END
+BluetoothManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/BluetoothManager.java
+END
+DataSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/DataSender.java
+END
+InsecureBluetooth.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/InsecureBluetooth.java
+END
+Shaking.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/Shaking.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/Main.java
+END
+AcceptThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/110/trunk/ShakeContact/src/linz/jku/AcceptThread.java
+END

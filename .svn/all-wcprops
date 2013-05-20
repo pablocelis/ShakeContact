@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/101/trunk/ShakeContact
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/94/trunk/ShakeContact/AndroidManifest.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/trunk/ShakeContact/.classpath
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/ShakeContact/default.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/ShakeContact/.project
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/ShakeContact/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7/trunk/ShakeContact/project.properties
+END
